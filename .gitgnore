@@ -1,0 +1,27 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Uploads (isi folder uploads jangan ikut ke GitHub, tapi foldernya tetap ada)
+uploads/*.!(_placeholder)
+
+# Temporary files
+tmp/
+temp/
+*.tmp
